@@ -1,4 +1,4 @@
-# Clippy the chatbot seller powered by GPT3
+# Clippy the chatbot seller powered by ChatGPT
 
 # Environment vars
 This project uses the following environment variables:
