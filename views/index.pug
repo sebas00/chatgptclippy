@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+<!-- Add the stylesheet to the head -->
+<link rel="stylesheet" type="text/css" href="https://gitcdn.xyz/repo/pi0/clippyjs/master/assets/clippy.css">
+
+<!-- Add these scripts to  the bottom of the page -->
+<script src="/jquery.min.js"></script>
+
+<script src="/clippy.js"></script>
+
+<script type="text/javascript">
+window.CLIPPY_CDN = './agents/'
+clippy.load('Merlin', function(agent){
+    // Do anything with the loaded agent
+    agent.show();
+});
+</script>
