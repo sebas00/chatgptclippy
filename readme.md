@@ -1,5 +1,11 @@
 # Clippy the chatbot seller powered by ChatGPT
 
+<p align="center">
+  <img alt="Example usage" src="/media/ClippyBotAnswer.png">
+</p>
+
+
+
 # Environment vars
 This project uses the following environment variables:
 
