@@ -4,7 +4,7 @@
   <img alt="Example usage" src="/media/ClippyBotAnswer.png">
 </p>
 
-
+[Demo](https://clippychatgpt.azurewebsites.net/)
 
 # Environment vars
 This project uses the following environment variables:
