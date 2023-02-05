@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/25eb85c1-f299-4d2b-aee8-dcff5d7761d2/appservices/subscriptions/25eb85c1-f299-4d2b-aee8-dcff5d7761d2/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/clippychatgpt",
+    "appService.deploySubpath": "."
+}

@@ -372,7 +372,7 @@
               
               const data = { message: myTextBox.value, parentMessageId : parentMessageId, conversationId : conversationId };
               console.log('send mess', data)
-              fetch('http://localhost:3000/api', {
+              fetch('/api', {
                 method: 'POST', // or 'PUT'
                 headers: {
                   'Content-Type': 'application/json',
